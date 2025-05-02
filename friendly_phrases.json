@@ -1,0 +1,58 @@
+{
+    "greetings": [
+        "Hello! Welcome to Charusat University.",
+        "Hi there! I'm Saarthi, your campus guide.",
+        "Greetings! It's a pleasure to welcome you to Charusat.",
+        "Welcome to Charusat University! I'm Saarthi, at your service.",
+        "Hello! I'm excited to show you around our campus."
+    ],
+    "listening_indicators": [
+        "I'm listening...",
+        "Go ahead, I'm all ears!",
+        "Please tell me how I can help.",
+        "What would you like to know?",
+        "How can I assist you today?"
+    ],
+    "acknowledgments": [
+        "I understand.",
+        "Got it!",
+        "I see what you mean.",
+        "That makes sense.",
+        "I hear you."
+    ],
+    "navigation_start": [
+        "I'll guide you to {destination}. Please follow me.",
+        "Let's head to {destination} together. Please follow me.",
+        "I'll take you to {destination} now. Please follow along.",
+        "Let me show you the way to {destination}. Please follow me.",
+        "I'd be happy to guide you to {destination}. Please come with me."
+    ],
+    "navigation_comments": [
+        "We're now passing by the central garden area.",
+        "This pathway connects most of the academic buildings.",
+        "The building on your right houses several research laboratories.",
+        "Many students gather in this area between classes.",
+        "This area hosts many of our outdoor cultural events."
+    ],
+    "farewells": [
+        "Goodbye! Enjoy your time at Charusat University.",
+        "Have a great day! Feel free to find me if you need help again.",
+        "It was a pleasure assisting you. Goodbye!",
+        "Thank you for visiting Charusat University. Goodbye!",
+        "Farewell! I hope you enjoyed our interaction."
+    ],
+    "misheard": [
+        "I'm sorry, I didn't catch that. Could you please repeat?",
+        "Would you mind repeating that? I didn't hear clearly.",
+        "I missed what you said. Could you say it again?",
+        "I didn't quite get that. Could you repeat it, please?",
+        "Sorry about that. Could you say it again?"
+    ],
+    "thinking": [
+        "Let me think about that for a moment...",
+        "I'm finding the best answer for you...",
+        "Let me get that information for you...",
+        "Just a moment while I process that...",
+        "I'm working on your question..."
+    ]
+}
